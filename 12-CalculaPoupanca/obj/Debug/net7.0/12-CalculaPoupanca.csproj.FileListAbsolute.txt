@@ -1,0 +1,15 @@
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\bin\Debug\net7.0\12-CalculaPoupanca.exe
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\bin\Debug\net7.0\12-CalculaPoupanca.deps.json
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\bin\Debug\net7.0\12-CalculaPoupanca.runtimeconfig.json
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\bin\Debug\net7.0\12-CalculaPoupanca.dll
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\bin\Debug\net7.0\12-CalculaPoupanca.pdb
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.csproj.AssemblyReference.cache
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.AssemblyInfoInputs.cache
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.AssemblyInfo.cs
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.dll
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\refint\12-CalculaPoupanca.dll
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.pdb
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\12-CalculaPoupanca.genruntimeconfig.cache
+D:\csharp-projects\ExploringCsharp\12-CalculaPoupanca\obj\Debug\net7.0\ref\12-CalculaPoupanca.dll

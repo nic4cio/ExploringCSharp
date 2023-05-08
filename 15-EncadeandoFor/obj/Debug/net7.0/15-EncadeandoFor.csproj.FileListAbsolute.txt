@@ -1,0 +1,15 @@
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\bin\Debug\net7.0\15-EncadeandoFor.exe
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\bin\Debug\net7.0\15-EncadeandoFor.deps.json
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\bin\Debug\net7.0\15-EncadeandoFor.runtimeconfig.json
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\bin\Debug\net7.0\15-EncadeandoFor.dll
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\bin\Debug\net7.0\15-EncadeandoFor.pdb
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.csproj.AssemblyReference.cache
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.AssemblyInfoInputs.cache
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.AssemblyInfo.cs
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.csproj.CoreCompileInputs.cache
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.dll
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\refint\15-EncadeandoFor.dll
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.pdb
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\15-EncadeandoFor.genruntimeconfig.cache
+D:\csharp-projects\ExploringCsharp\15-EncadeandoFor\obj\Debug\net7.0\ref\15-EncadeandoFor.dll

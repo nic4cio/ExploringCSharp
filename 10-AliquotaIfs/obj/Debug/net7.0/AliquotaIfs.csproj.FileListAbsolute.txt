@@ -1,0 +1,15 @@
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\bin\Debug\net7.0\AliquotaIfs.exe
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\bin\Debug\net7.0\AliquotaIfs.deps.json
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\bin\Debug\net7.0\AliquotaIfs.runtimeconfig.json
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\bin\Debug\net7.0\AliquotaIfs.dll
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\bin\Debug\net7.0\AliquotaIfs.pdb
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.csproj.AssemblyReference.cache
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.AssemblyInfoInputs.cache
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.AssemblyInfo.cs
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.csproj.CoreCompileInputs.cache
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.dll
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\refint\AliquotaIfs.dll
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.pdb
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\AliquotaIfs.genruntimeconfig.cache
+D:\csharp-projects\ExploringCsharp\AliquotaIfs\obj\Debug\net7.0\ref\AliquotaIfs.dll

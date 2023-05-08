@@ -1,0 +1,15 @@
+D:\csharp-projects\ExploringCsharp\17-Fatorial\bin\Debug\net7.0\17-Fatorial.exe
+D:\csharp-projects\ExploringCsharp\17-Fatorial\bin\Debug\net7.0\17-Fatorial.deps.json
+D:\csharp-projects\ExploringCsharp\17-Fatorial\bin\Debug\net7.0\17-Fatorial.runtimeconfig.json
+D:\csharp-projects\ExploringCsharp\17-Fatorial\bin\Debug\net7.0\17-Fatorial.dll
+D:\csharp-projects\ExploringCsharp\17-Fatorial\bin\Debug\net7.0\17-Fatorial.pdb
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.csproj.AssemblyReference.cache
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.AssemblyInfoInputs.cache
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.AssemblyInfo.cs
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.csproj.CoreCompileInputs.cache
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.dll
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\refint\17-Fatorial.dll
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.pdb
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\17-Fatorial.genruntimeconfig.cache
+D:\csharp-projects\ExploringCsharp\17-Fatorial\obj\Debug\net7.0\ref\17-Fatorial.dll

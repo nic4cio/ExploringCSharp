@@ -1,0 +1,15 @@
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\bin\Debug\net7.0\16-MultiplosDe3.exe
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\bin\Debug\net7.0\16-MultiplosDe3.deps.json
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\bin\Debug\net7.0\16-MultiplosDe3.runtimeconfig.json
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\bin\Debug\net7.0\16-MultiplosDe3.dll
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\bin\Debug\net7.0\16-MultiplosDe3.pdb
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.csproj.AssemblyReference.cache
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.AssemblyInfoInputs.cache
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.AssemblyInfo.cs
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.csproj.CoreCompileInputs.cache
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.dll
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\refint\16-MultiplosDe3.dll
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.pdb
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\16-MultiplosDe3.genruntimeconfig.cache
+D:\csharp-projects\ExploringCsharp\16-MultiplosDe3\obj\Debug\net7.0\ref\16-MultiplosDe3.dll

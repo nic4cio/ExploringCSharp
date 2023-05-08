@@ -1,0 +1,15 @@
+D:\csharp-projects\ExploringCsharp\9-Escopo\bin\Debug\net7.0\9-Escopo.exe
+D:\csharp-projects\ExploringCsharp\9-Escopo\bin\Debug\net7.0\9-Escopo.deps.json
+D:\csharp-projects\ExploringCsharp\9-Escopo\bin\Debug\net7.0\9-Escopo.runtimeconfig.json
+D:\csharp-projects\ExploringCsharp\9-Escopo\bin\Debug\net7.0\9-Escopo.dll
+D:\csharp-projects\ExploringCsharp\9-Escopo\bin\Debug\net7.0\9-Escopo.pdb
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.csproj.AssemblyReference.cache
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.AssemblyInfoInputs.cache
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.AssemblyInfo.cs
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.csproj.CoreCompileInputs.cache
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.dll
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\refint\9-Escopo.dll
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.pdb
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\9-Escopo.genruntimeconfig.cache
+D:\csharp-projects\ExploringCsharp\9-Escopo\obj\Debug\net7.0\ref\9-Escopo.dll

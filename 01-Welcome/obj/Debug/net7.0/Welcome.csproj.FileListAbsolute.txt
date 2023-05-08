@@ -1,0 +1,15 @@
+D:\csharp-projects\ExploringCsharp\Welcome\bin\Debug\net7.0\Welcome.exe
+D:\csharp-projects\ExploringCsharp\Welcome\bin\Debug\net7.0\Welcome.deps.json
+D:\csharp-projects\ExploringCsharp\Welcome\bin\Debug\net7.0\Welcome.runtimeconfig.json
+D:\csharp-projects\ExploringCsharp\Welcome\bin\Debug\net7.0\Welcome.dll
+D:\csharp-projects\ExploringCsharp\Welcome\bin\Debug\net7.0\Welcome.pdb
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.csproj.AssemblyReference.cache
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.AssemblyInfoInputs.cache
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.AssemblyInfo.cs
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.csproj.CoreCompileInputs.cache
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.dll
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\refint\Welcome.dll
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.pdb
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\Welcome.genruntimeconfig.cache
+D:\csharp-projects\ExploringCsharp\Welcome\obj\Debug\net7.0\ref\Welcome.dll
