@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCk7EVP+BGPhNVZdvJiOsvMWuybyG/W3omrNdNkWDnW5hqeszAyxO/2OihrepDy0BYZ5qEecVR826sGUKEh65g==",
+  "dgSpecHash": "gxoMWCo5TfzXSvop2VZnCA3kF082Rg164AR86lMERLTLWs0CwMM5oyB8M3pxaB8nrIlrlFf9femUok92j4AA9g==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\CreatingVariables\\CreatingVariables.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\02-CreatingVariables\\02-CreatingVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

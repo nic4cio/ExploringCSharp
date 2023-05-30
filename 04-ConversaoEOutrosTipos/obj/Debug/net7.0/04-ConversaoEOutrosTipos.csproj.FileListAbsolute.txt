@@ -1,0 +1,15 @@
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\bin\Debug\net7.0\04-ConversaoEOutrosTipos.exe
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\bin\Debug\net7.0\04-ConversaoEOutrosTipos.deps.json
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\bin\Debug\net7.0\04-ConversaoEOutrosTipos.runtimeconfig.json
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\bin\Debug\net7.0\04-ConversaoEOutrosTipos.dll
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\bin\Debug\net7.0\04-ConversaoEOutrosTipos.pdb
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.csproj.AssemblyReference.cache
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.AssemblyInfoInputs.cache
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.AssemblyInfo.cs
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.csproj.CoreCompileInputs.cache
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.dll
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\refint\04-ConversaoEOutrosTipos.dll
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.pdb
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\04-ConversaoEOutrosTipos.genruntimeconfig.cache
+D:\csharp-projects\copy-exploring\04-ConversaoEOutrosTipos\obj\Debug\net7.0\ref\04-ConversaoEOutrosTipos.dll

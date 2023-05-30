@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThpoSPrqAn9SUsryr6SxRFUmwv3ogpKyMdloXspu6b+0onkDDNk0FrRvLPPc/kzt8IM6SopM3s+wbee9y2u9kQ==",
+  "dgSpecHash": "T5+2dkYjqgvgZVMoeSrgZ1WCiKIPYBf3zZTme89nKDlU3P0W01Ia9bqLM6DSXdvJ0C2s5SwRccDo8kVed+CHtw==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\9-Escopo\\9-Escopo.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\09-Escopo\\09-Escopo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

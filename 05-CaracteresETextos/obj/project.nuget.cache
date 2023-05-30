@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uzje50ESNDI1WlzULWZ1019Fcn+u5HiahVAGKR35yPRRM0R7XKbYFT9np/1AxujhTDzHSwqyl56/wvzeQTJ/ug==",
+  "dgSpecHash": "7isqEfzqm/+c5IgfarVe4dqtSc/LbTHimbI9iKdiAXdGf8DLSCbNyj1dvGcD9YwJp1hXEckKSu0BS7FdX8q7Ww==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\05-CaracteresETextos\\CaracteresETextos.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\05-CaracteresETextos\\05-CaracteresETextos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

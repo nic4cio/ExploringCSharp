@@ -1,0 +1,15 @@
+D:\csharp-projects\copy-exploring\02-CreatingVariables\bin\Debug\net7.0\02-CreatingVariables.exe
+D:\csharp-projects\copy-exploring\02-CreatingVariables\bin\Debug\net7.0\02-CreatingVariables.deps.json
+D:\csharp-projects\copy-exploring\02-CreatingVariables\bin\Debug\net7.0\02-CreatingVariables.runtimeconfig.json
+D:\csharp-projects\copy-exploring\02-CreatingVariables\bin\Debug\net7.0\02-CreatingVariables.dll
+D:\csharp-projects\copy-exploring\02-CreatingVariables\bin\Debug\net7.0\02-CreatingVariables.pdb
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.csproj.AssemblyReference.cache
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.AssemblyInfoInputs.cache
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.AssemblyInfo.cs
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.csproj.CoreCompileInputs.cache
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.dll
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\refint\02-CreatingVariables.dll
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.pdb
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\02-CreatingVariables.genruntimeconfig.cache
+D:\csharp-projects\copy-exploring\02-CreatingVariables\obj\Debug\net7.0\ref\02-CreatingVariables.dll

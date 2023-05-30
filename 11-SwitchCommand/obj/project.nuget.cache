@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2r66jK4BPk4jMMbdPabjxTKQOdnZecfOshqtOyOLzmYOouG1f1N0Sv4Rae7rzT94N4LGxqCNeY3tU3pSf2ZdSw==",
+  "dgSpecHash": "NPgYzg9laAG7WIQvAXqC1aSn0spTU1XCVrcEiL9lT7YIURYDsrOpXonz87HqvKs32LlL/1DDhDj0J8CF43O6hw==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\11-SwitchCommand\\11-SwitchCommand.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\11-SwitchCommand\\11-SwitchCommand.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

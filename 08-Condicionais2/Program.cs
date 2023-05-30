@@ -4,7 +4,7 @@ class Program
 {
 	public static void Main(string[] args)
 	{
-		Console.WriteLine("Executando o Projeto 7 - Condicionais");
+		Console.WriteLine("Executando o Projeto 8 - Condicionais2");
 
 		int idadeJoao = 16;
 		int quantidadePessoas = 2;

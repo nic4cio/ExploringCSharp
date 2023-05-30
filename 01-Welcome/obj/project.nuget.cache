@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ofk0Ct5weZJ9TclUhmQQvhwUALntHLLkwzGK49w4xgAhSzT2LyFdisRR9FL/8lsDXiGNj01NflIe0UIGuolzug==",
+  "dgSpecHash": "+d0nt09+KD7xpGJTOGfX7M9n6Q35TBA53QgDVGv454qqeEc95tJ661fmppHCkWj4mtJYe9N25eaq3SuY01HA1w==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\Welcome\\Welcome.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\01-Welcome\\01-Welcome.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

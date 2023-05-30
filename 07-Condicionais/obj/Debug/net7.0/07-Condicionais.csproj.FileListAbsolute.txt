@@ -1,0 +1,15 @@
+D:\csharp-projects\copy-exploring\07-Condicionais\bin\Debug\net7.0\07-Condicionais.exe
+D:\csharp-projects\copy-exploring\07-Condicionais\bin\Debug\net7.0\07-Condicionais.deps.json
+D:\csharp-projects\copy-exploring\07-Condicionais\bin\Debug\net7.0\07-Condicionais.runtimeconfig.json
+D:\csharp-projects\copy-exploring\07-Condicionais\bin\Debug\net7.0\07-Condicionais.dll
+D:\csharp-projects\copy-exploring\07-Condicionais\bin\Debug\net7.0\07-Condicionais.pdb
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.csproj.AssemblyReference.cache
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.AssemblyInfoInputs.cache
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.AssemblyInfo.cs
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.csproj.CoreCompileInputs.cache
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.dll
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\refint\07-Condicionais.dll
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.pdb
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\07-Condicionais.genruntimeconfig.cache
+D:\csharp-projects\copy-exploring\07-Condicionais\obj\Debug\net7.0\ref\07-Condicionais.dll

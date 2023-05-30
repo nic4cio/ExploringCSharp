@@ -1,0 +1,15 @@
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\bin\Debug\net7.0\06-AtribuicoesDeVariaveis.exe
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\bin\Debug\net7.0\06-AtribuicoesDeVariaveis.deps.json
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\bin\Debug\net7.0\06-AtribuicoesDeVariaveis.runtimeconfig.json
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\bin\Debug\net7.0\06-AtribuicoesDeVariaveis.dll
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\bin\Debug\net7.0\06-AtribuicoesDeVariaveis.pdb
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.AssemblyInfo.cs
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.dll
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\refint\06-AtribuicoesDeVariaveis.dll
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.pdb
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\06-AtribuicoesDeVariaveis.genruntimeconfig.cache
+D:\csharp-projects\copy-exploring\06-AtribuicoesDeVariaveis\obj\Debug\net7.0\ref\06-AtribuicoesDeVariaveis.dll

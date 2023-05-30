@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65MsE+xBcs+C+5ieaGSxSJgEwnc/PK/8VyA33oN9idT+WXwOnRC2Rdz4qafRWJ6MSdqXEQwoUwCf9g748hw+lQ==",
+  "dgSpecHash": "jUilfZfjD7GePX/bAizFHnbyqAFhc+FXLD8iB9U5XQtA0CWdHug96CHYCqtvIhb6x/0lWVFxywPYLZATYBdm4g==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\03-CreatingVariablesFloatingPoint\\CreatingVariablesFloatingPoint.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\03-CreatingVariablesFloatingPoint\\03-CreatingVariablesFloatingPoint.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

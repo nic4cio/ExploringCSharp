@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Gi+2HrnwDV7PBHD4wXfvpYgP8qiEE/2h20J0MVD2SGXUO451UmEeKDmXGBEvcAH9IB1CcqQZ6xrUAhwtOEwQQ==",
+  "dgSpecHash": "YFiMss4sVgjaXgQ8e7NCO98G+SG3I9aZhh4WusfyA11vfvktDrTfpNvIZBwxSLHaB9bCFcBhPemR3xM8EZcEGQ==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\ConversaoEOutrosTipos\\ConversaoEOutrosTipos.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\04-ConversaoEOutrosTipos\\04-ConversaoEOutrosTipos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

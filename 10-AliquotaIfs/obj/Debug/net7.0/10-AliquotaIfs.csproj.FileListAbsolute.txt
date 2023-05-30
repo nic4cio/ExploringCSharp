@@ -1,0 +1,15 @@
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\bin\Debug\net7.0\10-AliquotaIfs.exe
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\bin\Debug\net7.0\10-AliquotaIfs.deps.json
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\bin\Debug\net7.0\10-AliquotaIfs.runtimeconfig.json
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\bin\Debug\net7.0\10-AliquotaIfs.dll
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\bin\Debug\net7.0\10-AliquotaIfs.pdb
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.csproj.AssemblyReference.cache
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.AssemblyInfoInputs.cache
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.AssemblyInfo.cs
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.csproj.CoreCompileInputs.cache
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.dll
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\refint\10-AliquotaIfs.dll
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.pdb
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\10-AliquotaIfs.genruntimeconfig.cache
+D:\csharp-projects\copy-exploring\10-AliquotaIfs\obj\Debug\net7.0\ref\10-AliquotaIfs.dll

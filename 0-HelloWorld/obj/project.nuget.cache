@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xAgkOhM6ngP4sOsTIs0G13Mil1yWyma8riSYEiAcNUc0rb+5DN/xKPPPpUxl70TwU2FQDwrkcivHJNhzAQC4XQ==",
+  "dgSpecHash": "WIMjmoOBL1c8JBXgnksQmKsh9cQH8gGMFnfKRuTlB6otZ8YkD5RA/2UWT/qXov/K1RKyKdmnNQHIGJMBkIgD4w==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\0-HelloWorld\\0-HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

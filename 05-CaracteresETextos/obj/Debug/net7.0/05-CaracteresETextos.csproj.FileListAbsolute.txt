@@ -1,0 +1,15 @@
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\bin\Debug\net7.0\05-CaracteresETextos.exe
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\bin\Debug\net7.0\05-CaracteresETextos.deps.json
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\bin\Debug\net7.0\05-CaracteresETextos.runtimeconfig.json
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\bin\Debug\net7.0\05-CaracteresETextos.dll
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\bin\Debug\net7.0\05-CaracteresETextos.pdb
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.csproj.AssemblyReference.cache
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.AssemblyInfoInputs.cache
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.AssemblyInfo.cs
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.dll
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\refint\05-CaracteresETextos.dll
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.pdb
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\05-CaracteresETextos.genruntimeconfig.cache
+D:\csharp-projects\copy-exploring\05-CaracteresETextos\obj\Debug\net7.0\ref\05-CaracteresETextos.dll

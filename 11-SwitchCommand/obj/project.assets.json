@@ -13,18 +13,23 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csharp-projects\\ExploringCsharp\\11-SwitchCommand\\11-SwitchCommand.csproj",
+      "projectUniqueName": "D:\\csharp-projects\\copy-exploring\\11-SwitchCommand\\11-SwitchCommand.csproj",
       "projectName": "11-SwitchCommand",
-      "projectPath": "D:\\csharp-projects\\ExploringCsharp\\11-SwitchCommand\\11-SwitchCommand.csproj",
+      "projectPath": "D:\\csharp-projects\\copy-exploring\\11-SwitchCommand\\11-SwitchCommand.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\csharp-projects\\ExploringCsharp\\11-SwitchCommand\\obj\\",
+      "outputPath": "D:\\csharp-projects\\copy-exploring\\11-SwitchCommand\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
@@ -56,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

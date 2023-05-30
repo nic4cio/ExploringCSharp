@@ -1,0 +1,15 @@
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\bin\Debug\net7.0\03-CreatingVariablesFloatingPoint.exe
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\bin\Debug\net7.0\03-CreatingVariablesFloatingPoint.deps.json
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\bin\Debug\net7.0\03-CreatingVariablesFloatingPoint.runtimeconfig.json
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\bin\Debug\net7.0\03-CreatingVariablesFloatingPoint.dll
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\bin\Debug\net7.0\03-CreatingVariablesFloatingPoint.pdb
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.csproj.AssemblyReference.cache
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.AssemblyInfoInputs.cache
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.AssemblyInfo.cs
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.csproj.CoreCompileInputs.cache
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.dll
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\refint\03-CreatingVariablesFloatingPoint.dll
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.pdb
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\03-CreatingVariablesFloatingPoint.genruntimeconfig.cache
+D:\csharp-projects\copy-exploring\03-CreatingVariablesFloatingPoint\obj\Debug\net7.0\ref\03-CreatingVariablesFloatingPoint.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+PTIRNimhfUL7mVB9y62OfbgCg4ZqmyNrxRZFJy9bGo+l6GVxPM2F7C4FScHbEatyce/G0lPtsFLbiglEXIHw==",
+  "dgSpecHash": "BuNl+8S/VtkYEVz+00cTacxYNFkVSwHRhFkCPkVWTR0EcC/xHLCTpDn2LJG5IM7BEo4BnpDmc+BC/4y5uIOdJg==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\ExploringCsharp\\AliquotaIfs\\AliquotaIfs.csproj",
+  "projectFilePath": "D:\\csharp-projects\\copy-exploring\\10-AliquotaIfs\\10-AliquotaIfs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
